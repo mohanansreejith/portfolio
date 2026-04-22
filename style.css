@@ -26,18 +26,25 @@ main {
   margin-bottom: 0.5rem;
 }
 
-.hero .title {
-  font-size: 1rem;
-  color: #888;
-  letter-spacing: 0.5px;
+.hobbies {
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: 0.75rem;
   margin-bottom: 2.5rem;
 }
 
-.links {
-  display: flex;
-  gap: 1rem;
-  justify-content: center;
-  flex-wrap: wrap;
+.contact {
+  margin-top: 1.5rem;
+}
+
+.contact a {
+  color: #555;
+  font-size: 0.85rem;
+  text-decoration: none;
+}
+
+.contact a:hover {
+  color: #e8e8e8;
 }
 
 .btn {
